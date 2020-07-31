@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
 - 💬 Ask me about anything.
-- 🛩️ How to reach me: [@YouEclipse](https://t.me/hjpotter1).
+- 🛩️ How to reach me: [@hjpotter1](https://t.me/hjpotter1).
 - 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
 
 #### Platform&Tools
