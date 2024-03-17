@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
