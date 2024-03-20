@@ -5,7 +5,7 @@
 #### About me
 
 - 🔭 I’m currently working on [haneishikabushikikaisya]as a frontend engineer.
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
+- 🌱 I’m currently learning [Vue.js](https://kubernetes.io) and [React](https://istio.io).
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@hjpotter1](https://t.me/hjpotter1).
 - 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
