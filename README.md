@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Vue.js](https://kubernetes.io) and [React](https://istio.io).
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@hjpotter1](https://t.me/hjpotter1).
-- 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
+- 🎮 A Nintendo fan , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
 
 #### Platform&Tools
 
