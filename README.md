@@ -21,6 +21,7 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://python.org/)
 
 
 <table>
