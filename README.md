@@ -68,8 +68,7 @@ Python     🕓 13m    ▏░░░░░░░░░░░░░░░░░░
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [KLOOK](https://www.klook.com)
-- 🌱 I’m currently learning Kubernetes and Istio
+- 🔭 I’m currently working on [JAPAN]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
