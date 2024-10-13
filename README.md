@@ -51,7 +51,7 @@ Python     🕓 15m    ▏░░░░░░░░░░░░░░░░░░
 🔫 DOTA2                             🕘 1549 hrs 25 mins
 🚓 Grand Theft Auto V                🕘 52 hrs 19 mins
 💻 Wallpaper Engine                  🕘 39 hrs 59 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 40 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 41 mins
 🌏 Sid Meier's Civilization V        🕘 11 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
