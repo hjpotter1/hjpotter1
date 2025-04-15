@@ -4,7 +4,7 @@
 
 #### About me
 
-- 🔭 I’m currently work as a web engineer.
+- 🔭 I’m currently work as a frontend engineer.
 - 🌱 I’m currently learning [Vue.js](https://ja.vuejs.org/) and [React](https://ja.react.dev/).
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@hjpotter1](https://t.me/hjpotter1).
