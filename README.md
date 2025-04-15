@@ -7,7 +7,7 @@
 - 🔭 I’m currently work as a frontend engineer.
 - 🌱 I’m currently learning [Vue.js](https://ja.vuejs.org/) and [React](https://ja.react.dev/).
 - 💬 Ask me about anything.
-- 🛩️ How to reach me: [@hjpotter1](https://t.me/hjpotter1).
+- 🛩️ How to reach me: [@hjpotter1].
 - 🎮 A Nintendo fan , you can also find me on [Steam](https://steamcommunity.com/id/hjpotter1).
 
 #### Platform&Tools
