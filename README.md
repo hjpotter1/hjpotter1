@@ -31,7 +31,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TypeScript 🕓 20h25m ███████████████████░░░░░░░░ 70.9%
+TypeScript 🕓 20h25m ███████████████████░░░░░░░░ 70.3%
 CSS        🕓 6h35m  █████▊░░░░░░░░░░░░░░░░░░░░░ 21.4%
 YAML       🕓 1h6m   █░░░░░░░░░░░░░░░░░░░░░░░░░░  4.5%
 Other      🕓 48m    ▊░░░░░░░░░░░░░░░░░░░░░░░░░░  3.9%
