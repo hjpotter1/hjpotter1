@@ -48,7 +48,7 @@ Python     🕓 15m    ▏░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 DOTA2                             🕘 1549 hrs 45 mins
+🔫 DOTA2                             🕘 1549 hrs 46 mins
 🚓 Grand Theft Auto V                🕘 53 hrs 24 mins
 💻 Wallpaper Engine                  🕘 39 hrs 59 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 43 mins
